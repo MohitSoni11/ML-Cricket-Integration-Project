@@ -2,6 +2,9 @@
 During 11th grade, I did this project with Sundar Uncle to combine my 2 passions -- Machine Learning and Cricket. I used ML to predict different outcomes based on the field, ball length, and player stats.
 
 ## Understanding the Data
+
+Data Source: https://www.kaggle.com/datasets/raghuvansht/cricket-scorecard-and-commentary-dataset
+
 The Data covers over 1200 cricket matches from 2017 till Pre-COVID (2020).
 
 The Dataset is 3 fold first a CSV file containing each row for a Match, then Batting and Bowling Scorecard CSV files for each match and a CSV file per match containing ball-by-ball commentary for each match.
