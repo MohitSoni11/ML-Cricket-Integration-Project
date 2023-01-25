@@ -2,7 +2,7 @@
 During 11th grade, I did this project with Sundar Uncle to combine my 2 passions -- Machine Learning and Cricket. I used ML to predict the weaknesses and different attributes of a specific player based on the stadium, the format of the game, and past player performances.
 
 ## Problem Description
-Question: What are Virat Kohli's weaknesses? In other words, if I had to bowl to Virat Kohli, where would I bowl to have the highest chance of getting him out?
+Question: What are Virat Kohli's weaknesses? In other words, if I had to bowl to Virat Kohli at the international stage, where would I bowl to have the highest chance of getting him out?
 
 ## Understanding the Data
 
