@@ -23,5 +23,5 @@ The "BOWLING" folder contains bowling scorecard CSV files. The name of every fil
 
 "COMMENTARYINTLMATCH" folder contains Ball-by-ball commentary CSV files. The name of every file in the Commentary folder is named as "XX_COMMENTARY.csv" where "XX" is the <b>MATCH NUMBER</b>.
 
-## Let's Understand the Structure by an Example
+## Understanding the Structure by an Example
 If a row in the "INTERNATIONALMATCH.csv" file contains MATCH NUMBER "12345", then its Batting Scorecard CSV file will be in the "BATTING" folder named "12345BATTINGSCORECARD.csv", the Bowling Scorecard CSV file will be in the "BOWLING" folder named "12345BOWLINGSCORECARD.csv", and the Commentary CSV file will be in the "COMMENTARYINTLMATCH" folder named "12345COMMENTARY.csv".
